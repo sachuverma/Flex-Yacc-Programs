@@ -7,12 +7,12 @@
 
 ### How to run
  - `Flex Programs`
-   - flex **filename.l**
-   - gcc **lex.yy.c**
-   - **a.exe**   
+   > - flex **filename.l**
+   > - gcc **lex.yy.c**
+   > - **a.exe**   
  
  - `Flex & Yacc Programs`   
-   - flex **filename.l**
-   - bison -dy **filename.y**
-   - gcc **lex.yy.c** *y.tab.c*
-   - **a.exe**
+   > - flex **filename.l**
+   > - bison -dy **filename.y**
+   > - gcc **lex.yy.c** *y.tab.c*
+   > - **a.exe**
